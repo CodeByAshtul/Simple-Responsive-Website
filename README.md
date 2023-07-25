@@ -14,6 +14,9 @@ This is a simple repository for a responsive website project.
 
 This project aims to create a straightforward and responsive website. It will be designed to adapt and look great on various devices, including desktops, tablets, and mobile phones.
 
+![image](https://github.com/CodeByAshtul/Simple-Responsive-Website/assets/132897582/2e8d96d6-adce-40a0-9c0a-e8a8e1d210d6)
+
+
 ## Technologies Used
 
 The project will be built using standard web technologies, including:
